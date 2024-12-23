@@ -1,3 +1,5 @@
+### co-created with chatgpt
+
 def calculate_bonus_tax(annual_bonus):
     """
     Calculate the tax for an annual bonus based on the progressive tax brackets.
