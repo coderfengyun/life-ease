@@ -41,6 +41,6 @@ def calculate_bonus_tax(annual_bonus):
     return total_tax
 
 # Test the function with the provided annual bonus
-annual_bonus = 493798.136
+annual_bonus = 10000
 bonus_tax = calculate_bonus_tax(annual_bonus)
 print(bonus_tax)
